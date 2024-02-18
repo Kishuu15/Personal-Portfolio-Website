@@ -1,2 +1,2 @@
 # Personal-Portfolio-Website
-Designing a Personal Portfolio Website using HTML, CSS and Javascript
+Designing a Personal Portfolio Website using HTML and CSS
